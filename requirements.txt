@@ -3,3 +3,4 @@ sentence-transformers
 chromadb
 google-genai
 python-dotenv
+pip freeze > requirements.txt
