@@ -6,3 +6,4 @@ python-dotenv
 Django
 gunicorn
 PyMuPDF
+pytesseract
